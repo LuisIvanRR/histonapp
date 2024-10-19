@@ -9,14 +9,6 @@ Esta aplicación interactiva permite explorar las modificaciones de histonas, co
 - Diseño estilizado con CSS3.
 - Lógica interactiva desarrollada con JavaScript.
 
-## Tecnologías
-
-- **HTML5**: Estructura de la aplicación.
-- **CSS3**: Diseño y estilo.
-- **JavaScript**: Lógica interactiva.
-- **Git & GitHub**: Control de versiones y colaboración.
-- **VSCodium/VS Code**: Editores de código utilizados por los colaboradores.
-
 ## Instalación
 
 Sigue los siguientes pasos para clonar y ejecutar la aplicación en tu máquina local:
